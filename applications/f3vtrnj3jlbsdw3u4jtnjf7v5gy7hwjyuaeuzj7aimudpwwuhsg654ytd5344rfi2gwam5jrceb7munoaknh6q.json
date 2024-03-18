@@ -36,11 +36,11 @@
     "Weekly Allocation": "2GiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-03-18 09:48:49.529141650 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
-    "Updated At": "2024-03-18 09:48:49.529145920 UTC",
+    "Updated At": "2024-03-18 10:29:30.195146005 UTC",
     "Active Request ID": "f7402f0d-48c1-4526-b798-5450222e3b16",
     "On Chain Address": "f3vtrnj3jlbsdw3u4jtnjf7v5gy7hwjyuaeuzj7aimudpwwuhsg654ytd5344rfi2gwam5jrceb7munoaknh6q",
     "Multisig Address": "false"
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-03-18 09:48:49.529148530 UTC",
       "Updated At": "2024-03-18 09:48:49.529149633 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "2GiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "AlexMCon",
+          "Signing Address": "f1ubequ7zyoo5eieojwbrt26ej7eplsolgizx52ia",
+          "Created At": "2024-03-18 10:29:27.762000000 UTC",
+          "Message CID": "bafy2bzacebyfd6m643hkz3oljaq7uqtlswmg5slk4hzwol76pbf6r2nuzdox4"
+        }
+      ]
     }
   ]
 }
