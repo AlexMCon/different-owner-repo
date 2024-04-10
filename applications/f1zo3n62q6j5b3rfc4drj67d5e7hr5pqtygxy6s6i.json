@@ -36,7 +36,7 @@
     "Weekly Allocation": "200TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "ChangesRequested",
     "Validated At": "2024-04-10 04:17:57.023381516 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
