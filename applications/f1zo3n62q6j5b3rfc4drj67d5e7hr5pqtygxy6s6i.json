@@ -36,15 +36,14 @@
     "Weekly Allocation": "200TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-04-10 10:45:23.130503332 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
-    "Updated At": "2024-04-10 10:50:07.617332768 UTC",
-    "Active Request ID": "f2043ebf-03cf-4a6a-a3a6-3e400fcd6673",
+    "Updated At": "2024-04-10 23:00:05.467187943 UTC",
+    "Active Request ID": "70aeeca1-031c-417c-b911-6b6f4db03baa",
     "On Chain Address": "f1zo3n62q6j5b3rfc4drj67d5e7hr5pqtygxy6s6i",
-    "Multisig Address": "false",
-    "edited": false
+    "Multisig Address": "false"
   },
   "Allocation Requests": [
     {
@@ -68,6 +67,15 @@
           "Message CID": "testappr"
         }
       ]
+    },
+    {
+      "ID": "70aeeca1-031c-417c-b911-6b6f4db03baa",
+      "Request Type": "Refill",
+      "Created At": "2024-04-10 23:00:05.467195782 UTC",
+      "Updated At": "2024-04-10 23:00:05.467196928 UTC",
+      "Active": true,
+      "Allocation Amount": "200TiB",
+      "Signers": []
     }
   ]
 }
