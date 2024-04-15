@@ -36,7 +36,7 @@
     "Weekly Allocation": "200TiB"
   },
   "Lifecycle": {
-    "State": "ChangesRequested",
+    "State": "StartSignDatacap",
     "Validated At": "2024-04-15 10:43:05.753568634 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
@@ -44,7 +44,7 @@
     "Active Request ID": "e44d1dd9-8e56-45e5-98b5-f94cbf190175",
     "On Chain Address": "f1m2swr32yrlouzs7ijui3jttwgc6lxa5n5sookhi",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
