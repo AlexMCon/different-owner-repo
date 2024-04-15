@@ -5,7 +5,7 @@
   "Client": {
     "Name": "char2",
     "Region": "Spain",
-    "Industry": "Life Science / HealthcareZZz3344",
+    "Industry": "Life Science / HealthcareZWORKPLEASE",
     "Website": "123",
     "Social Media": "123",
     "Social Media Type": "Slack",
@@ -30,10 +30,10 @@
   "Datacap": {
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
-    "Total Requested Amount": "2.10PiB",
-    "Single Size Dataset": "250TiB",
+    "Total Requested Amount": "2.15PiB",
+    "Single Size Dataset": "350TiB",
     "Replicas": 4,
-    "Weekly Allocation": "150TiB"
+    "Weekly Allocation": "250TiB"
   },
   "Lifecycle": {
     "State": "Submitted",
