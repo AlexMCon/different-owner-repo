@@ -5,7 +5,7 @@
   "Client": {
     "Name": "char2",
     "Region": "Spain",
-    "Industry": "Life Science / HealthcareZZzz",
+    "Industry": "Life Science / HealthcareZZzzzcx",
     "Website": "123",
     "Social Media": "123",
     "Social Media Type": "Slack",
@@ -31,7 +31,7 @@
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
     "Total Requested Amount": "2.05PiB",
-    "Single Size Dataset": "300TiB",
+    "Single Size Dataset": "250TiB",
     "Replicas": 4,
     "Weekly Allocation": "200TiB"
   },
