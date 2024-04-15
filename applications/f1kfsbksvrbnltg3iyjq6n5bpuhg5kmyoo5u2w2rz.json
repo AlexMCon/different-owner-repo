@@ -5,7 +5,7 @@
   "Client": {
     "Name": "char2",
     "Region": "Spain",
-    "Industry": "Life Science / HealthcareZWORKPLEASE6",
+    "Industry": "Life Science / HealthcareZWORKPLEASE7",
     "Website": "123",
     "Social Media": "123",
     "Social Media Type": "Slack",
@@ -44,7 +44,7 @@
     "Active Request ID": "45cdea53-0282-44d7-b1ea-3ae73578f853",
     "On Chain Address": "f1kfsbksvrbnltg3iyjq6n5bpuhg5kmyoo5u2w2rz",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
