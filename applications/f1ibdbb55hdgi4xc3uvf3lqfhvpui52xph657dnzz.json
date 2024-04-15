@@ -5,7 +5,7 @@
   "Client": {
     "Name": "char",
     "Region": "Spain",
-    "Industry": "Life Science / Healthcare",
+    "Industry": "Life Science / HealthcareZZ",
     "Website": "123",
     "Social Media": "123",
     "Social Media Type": "Slack",
@@ -30,7 +30,7 @@
   "Datacap": {
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
-    "Total Requested Amount": "2PiB",
+    "Total Requested Amount": "2.1PiB",
     "Single Size Dataset": "200TiB",
     "Replicas": 4,
     "Weekly Allocation": "200TiB"
@@ -44,7 +44,7 @@
     "Active Request ID": "3f32c84e-a003-45e6-ad63-00dfcb2f6475",
     "On Chain Address": "f1ibdbb55hdgi4xc3uvf3lqfhvpui52xph657dnzz",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
