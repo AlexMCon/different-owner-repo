@@ -5,7 +5,7 @@
   "Client": {
     "Name": "char2",
     "Region": "Spain",
-    "Industry": "Life Science / HealthcareJustKidding",
+    "Industry": "Life Science / HealthcareJustKiddingcxz",
     "Website": "123",
     "Social Media": "123",
     "Social Media Type": "Slack",
@@ -31,17 +31,17 @@
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
     "Total Requested Amount": "2.15PiB",
-    "Single Size Dataset": "370TiB",
+    "Single Size Dataset": "380TiB",
     "Replicas": 4,
-    "Weekly Allocation": "360TiB"
+    "Weekly Allocation": "350TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-04-16 08:12:55.837702786 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
-    "Updated At": "2024-04-16 10:32:26.900621022 UTC",
-    "Active Request ID": "725c19f4-5974-46bb-a741-5cb71002b670",
+    "Updated At": "2024-04-16 10:54:08.970530290 UTC",
+    "Active Request ID": "53d89244-3b8f-4c6f-a04d-6c48adae12f3",
     "On Chain Address": "f124nc7soxqejtehk7fvyoxufy7ydyvur3c3ky2ai",
     "Multisig Address": "false",
     "edited": false
@@ -68,6 +68,15 @@
           "Message CID": "bafy2bzacecvf7gltoy4lujnrg2rh33w7lf5pg4bulpnoui2iqekjuovtg7fqs"
         }
       ]
+    },
+    {
+      "ID": "53d89244-3b8f-4c6f-a04d-6c48adae12f3",
+      "Request Type": "Refill",
+      "Created At": "2024-04-16 10:54:08.970558303 UTC",
+      "Updated At": "2024-04-16 10:54:08.970561830 UTC",
+      "Active": true,
+      "Allocation Amount": "350TiB",
+      "Signers": []
     }
   ]
 }
