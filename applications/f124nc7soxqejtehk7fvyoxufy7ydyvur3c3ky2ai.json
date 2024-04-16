@@ -5,7 +5,7 @@
   "Client": {
     "Name": "char2",
     "Region": "Spain",
-    "Industry": "Life Science / HealthcareZWORKPLEASE9",
+    "Industry": "Life Science / HealthcareHelloStojan2",
     "Website": "123",
     "Social Media": "123",
     "Social Media Type": "Slack",
@@ -33,7 +33,7 @@
     "Total Requested Amount": "2.15PiB",
     "Single Size Dataset": "450TiB",
     "Replicas": 4,
-    "Weekly Allocation": "350TiB"
+    "Weekly Allocation": "400TiB"
   },
   "Lifecycle": {
     "State": "ReadyToSign",
@@ -44,7 +44,7 @@
     "Active Request ID": "d07b726d-caac-4e41-8fbf-788614fc9627",
     "On Chain Address": "f124nc7soxqejtehk7fvyoxufy7ydyvur3c3ky2ai",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
