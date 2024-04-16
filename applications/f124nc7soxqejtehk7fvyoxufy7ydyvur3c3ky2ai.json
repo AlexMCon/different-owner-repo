@@ -36,11 +36,11 @@
     "Weekly Allocation": "360TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "StartSignDatacap",
     "Validated At": "2024-04-16 08:12:55.837702786 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
-    "Updated At": "2024-04-16 11:00:41.560081206 UTC",
+    "Updated At": "2024-04-16 11:04:36.132196370 UTC",
     "Active Request ID": "d6e32847-c4a1-4f00-9385-3cf799bdebf5",
     "On Chain Address": "f124nc7soxqejtehk7fvyoxufy7ydyvur3c3ky2ai",
     "Multisig Address": "false",
@@ -75,8 +75,15 @@
       "Created At": "2024-04-16 11:00:41.560105322 UTC",
       "Updated At": "2024-04-16 11:00:41.560107546 UTC",
       "Active": true,
-      "Allocation Amount": "360TiB",
-      "Signers": []
+      "Allocation Amount": "450TiB",
+      "Signers": [
+        {
+          "Github Username": "AlexMCon",
+          "Signing Address": "f1ubequ7zyoo5eieojwbrt26ej7eplsolgizx52ia",
+          "Created At": "2024-04-16 11:04:32.285000000 UTC",
+          "Message CID": "bafy2bzacea6yusl4mphqkgsyzjn356ji5bzdwpax3nn56m4okgm533rq2ss7i"
+        }
+      ]
     }
   ]
 }
