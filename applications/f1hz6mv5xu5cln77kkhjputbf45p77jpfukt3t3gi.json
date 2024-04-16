@@ -5,7 +5,7 @@
   "Client": {
     "Name": "char2",
     "Region": "Spain",
-    "Industry": "Life Science / CHANGE 111",
+    "Industry": "Life Science / CHANGE 222",
     "Website": "123",
     "Social Media": "123",
     "Social Media Type": "Slack",
@@ -31,9 +31,9 @@
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
     "Total Requested Amount": "2.15PiB",
-    "Single Size Dataset": "150TiB",
+    "Single Size Dataset": "200TiB",
     "Replicas": 4,
-    "Weekly Allocation": "150TiB"
+    "Weekly Allocation": "200TiB"
   },
   "Lifecycle": {
     "State": "StartSignDatacap",
@@ -44,7 +44,7 @@
     "Active Request ID": "fa87c809-c0e4-4d1a-81ed-403950685b26",
     "On Chain Address": "f1hz6mv5xu5cln77kkhjputbf45p77jpfukt3t3gi",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
