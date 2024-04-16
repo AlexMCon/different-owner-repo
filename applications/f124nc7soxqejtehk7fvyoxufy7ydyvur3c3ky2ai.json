@@ -36,7 +36,7 @@
     "Weekly Allocation": "340TiB"
   },
   "Lifecycle": {
-    "State": "ChangesRequested",
+    "State": "StartSignDatacap",
     "Validated At": "2024-04-16 08:12:55.837702786 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
