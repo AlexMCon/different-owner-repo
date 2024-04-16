@@ -31,9 +31,9 @@
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
     "Total Requested Amount": "2.15PiB",
-    "Single Size Dataset": "420TiB",
+    "Single Size Dataset": "360TiB",
     "Replicas": 4,
-    "Weekly Allocation": "360TiB"
+    "Weekly Allocation": "340TiB"
   },
   "Lifecycle": {
     "State": "StartSignDatacap",
@@ -44,7 +44,7 @@
     "Active Request ID": "d6e32847-c4a1-4f00-9385-3cf799bdebf5",
     "On Chain Address": "f124nc7soxqejtehk7fvyoxufy7ydyvur3c3ky2ai",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
