@@ -36,7 +36,7 @@
     "Weekly Allocation": "360TiB"
   },
   "Lifecycle": {
-    "State": "ChangesRequested",
+    "State": "Granted",
     "Validated At": "2024-04-16 08:12:55.837702786 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
@@ -68,15 +68,6 @@
           "Message CID": "bafy2bzacecvf7gltoy4lujnrg2rh33w7lf5pg4bulpnoui2iqekjuovtg7fqs"
         }
       ]
-    },
-    {
-      "ID": "27ba21e1-2d0b-4325-87b2-688d504e6fb8",
-      "Request Type": "Refill",
-      "Created At": "2024-04-16 10:32:26.900648574 UTC",
-      "Updated At": "2024-04-16 10:32:26.900651480 UTC",
-      "Active": true,
-      "Allocation Amount": "350TiB",
-      "Signers": []
     }
   ]
 }
