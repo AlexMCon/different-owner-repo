@@ -33,7 +33,7 @@
     "Total Requested Amount": "2.15PiB",
     "Single Size Dataset": "450TiB",
     "Replicas": 4,
-    "Weekly Allocation": "250TiB"
+    "Weekly Allocation": "350TiB"
   },
   "Lifecycle": {
     "State": "ReadyToSign",
@@ -44,7 +44,7 @@
     "Active Request ID": "3e8e1d0b-16f4-4885-ba0f-ad1359520bbc",
     "On Chain Address": "f124nc7soxqejtehk7fvyoxufy7ydyvur3c3ky2ai",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
