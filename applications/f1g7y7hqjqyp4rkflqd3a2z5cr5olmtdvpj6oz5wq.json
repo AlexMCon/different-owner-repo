@@ -36,7 +36,7 @@
     "Weekly Allocation": "350TiB"
   },
   "Lifecycle": {
-    "State": "AdditionalInfoSubmitted",
+    "State": "AdditionalInfoRequired",
     "Validated At": "",
     "Validated By": "",
     "Active": true,
