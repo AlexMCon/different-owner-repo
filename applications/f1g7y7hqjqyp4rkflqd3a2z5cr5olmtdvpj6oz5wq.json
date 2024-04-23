@@ -15,7 +15,7 @@
     "Project Id": "1",
     "Brief history of your project and organization": "testtacapaca",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
-    "Describe the data being stored onto Filecoin": "testtanana",
+    "Describe the data being stored onto Filecoin": "testtananazxc",
     "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
     "How do you plan to prepare the dataset": "test",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "test",
@@ -36,7 +36,7 @@
     "Weekly Allocation": "350TiB"
   },
   "Lifecycle": {
-    "State": "AdditionalInfoRequired",
+    "State": "AdditionalInfoSubmitted",
     "Validated At": "",
     "Validated By": "",
     "Active": true,
