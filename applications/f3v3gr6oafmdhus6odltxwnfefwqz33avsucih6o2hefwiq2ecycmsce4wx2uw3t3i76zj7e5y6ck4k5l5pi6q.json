@@ -3,7 +3,7 @@
   "ID": "f3v3gr6oafmdhus6odltxwnfefwqz33avsucih6o2hefwiq2ecycmsce4wx2uw3t3i76zj7e5y6ck4k5l5pi6q",
   "Issue Number": "142",
   "Client": {
-    "Name": "Lexasdasdqweqwe",
+    "Name": "Lexasdasdqweqweads",
     "Region": "Algeria",
     "Industry": "Arts & Recreation",
     "Website": "Lex.com",
@@ -12,7 +12,7 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": null,
+    "Project Id": "test",
     "Brief history of your project and organization": "in the pipe five by five",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
     "Describe the data being stored onto Filecoin": "in the pipe five by five",
