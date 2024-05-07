@@ -7,25 +7,6 @@ body:
     value: |
       # Large Dataset Notary Application
       To apply for DataCap to onboard your dataset to Filecoin, please fill out the following form
-- type: dropdown
-  id: version
-  attributes:
-      label: Version
-      description: Schema File Version
-      options:
-        - 1
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: DataCap Applicant
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: Project ID
-  validations:
-    required: true
 - type: markdown
   attributes:
     value: |
