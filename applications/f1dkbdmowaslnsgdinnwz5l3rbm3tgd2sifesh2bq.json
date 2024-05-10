@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "1",
     "Brief history of your project and organization": "test",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
     "Describe the data being stored onto Filecoin": "test",
@@ -36,11 +35,11 @@
     "Weekly Allocation": "350TiB"
   },
   "Lifecycle": {
-    "State": "StartSignDatacap",
+    "State": "Granted",
     "Validated At": "2024-05-10 08:38:14.551006996 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
-    "Updated At": "2024-05-10 08:38:45.962186620 UTC",
+    "Updated At": "2024-05-10 09:12:49.894613 UTC",
     "Active Request ID": "3b1e95f0-ef84-48b2-bfb0-3488149f92d4",
     "On Chain Address": "f1dkbdmowaslnsgdinnwz5l3rbm3tgd2sifesh2bq",
     "Multisig Address": "false",
@@ -52,7 +51,7 @@
       "Request Type": "First",
       "Created At": "2024-05-10 08:38:14.551025672 UTC",
       "Updated At": "2024-05-10 08:38:14.551027916 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1PiB",
       "Signers": [
         {
@@ -60,6 +59,12 @@
           "Signing Address": "f1ubequ7zyoo5eieojwbrt26ej7eplsolgizx52ia",
           "Created At": "2024-05-10 08:38:42.204000000 UTC",
           "Message CID": "bafy2bzaceccmheu7pjm3a4auniavaq4ouddalwgokqyy2rhfkwqcysdrzn7vm"
+        },
+        {
+          "Github Username": "clriesco",
+          "Signing Address": "f1fqzg6wzl6xfjikjx45mscj6ajziktnioql4otfq",
+          "Created At": "2024-05-10 09:12:42.830000000 UTC",
+          "Message CID": "bafy2bzacedtgb3xgxqeojg4xk3x23ip2n46octnkzdckxdoimpuzslqwgm4y2"
         }
       ]
     }
