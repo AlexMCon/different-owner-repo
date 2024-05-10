@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "1",
     "Brief history of your project and organization": "test",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
     "Describe the data being stored onto Filecoin": "test",
@@ -36,12 +35,12 @@
     "Weekly Allocation": "350TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-05-10 09:39:03.178641575 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
-    "Updated At": "2024-05-10 09:53:12.465269787 UTC",
-    "Active Request ID": "95c3d938-7896-4496-8f5a-909743fdefb0",
+    "Updated At": "2024-05-10 10:00:06.845947989 UTC",
+    "Active Request ID": "cf9c54b8-fff8-487a-9d70-66cf9d14e203",
     "On Chain Address": "f1khdd2v7il7lxn4zjzzrqwceh466mq5k333ktu7q",
     "Multisig Address": "false",
     "edited": false
@@ -68,6 +67,15 @@
           "Message CID": "bafy2bzacece6dunfvteu3xu7hzkfdketd57frunruurr7ekv75ffgs3ad3ncc"
         }
       ]
+    },
+    {
+      "ID": "cf9c54b8-fff8-487a-9d70-66cf9d14e203",
+      "Request Type": "Refill",
+      "Created At": "2024-05-10 10:00:06.845953319 UTC",
+      "Updated At": "2024-05-10 10:00:06.845953945 UTC",
+      "Active": true,
+      "Allocation Amount": "350TiB",
+      "Signers": []
     }
   ]
 }
