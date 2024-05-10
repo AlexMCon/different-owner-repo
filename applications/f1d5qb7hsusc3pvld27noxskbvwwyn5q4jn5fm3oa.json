@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "1",
     "Brief history of your project and organization": "test",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
     "Describe the data being stored onto Filecoin": "test",
@@ -36,11 +35,11 @@
     "Weekly Allocation": "350TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "StartSignDatacap",
     "Validated At": "2024-05-10 08:37:55.578623685 UTC",
     "Validated By": "AlexMCon",
     "Active": true,
-    "Updated At": "2024-05-10 08:37:55.578636620 UTC",
+    "Updated At": "2024-05-10 09:13:12.118682132 UTC",
     "Active Request ID": "ad5ddbe6-ec6f-45f4-8a0a-e8c41a4fc8f4",
     "On Chain Address": "f1d5qb7hsusc3pvld27noxskbvwwyn5q4jn5fm3oa",
     "Multisig Address": "false",
@@ -54,7 +53,14 @@
       "Updated At": "2024-05-10 08:37:55.578641178 UTC",
       "Active": true,
       "Allocation Amount": "100TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "AlexMCon",
+          "Signing Address": "f1ubequ7zyoo5eieojwbrt26ej7eplsolgizx52ia",
+          "Created At": "2024-05-10 09:13:08.104000000 UTC",
+          "Message CID": "bafy2bzacedtesp3fndgo5kjsimvdm37jtprwlzrghhg5ttjj6yu7hstdgkaro"
+        }
+      ]
     }
   ]
 }
