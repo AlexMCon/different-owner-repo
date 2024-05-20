@@ -1,9 +1,9 @@
 {
-  "Version": 1,
+  "Version": "1.3",
   "ID": "f1khdd2v7il7lxn4zjzzrqwceh466mq5k333ktu7q",
   "Issue Number": "158",
   "Client": {
-    "Name": "LEX - TEST 1 - AFTER SUBMIT",
+    "Name": "LEX - TEST 1 - AFTER SUBMIT - AFTER ISSUE CHANGE",
     "Region": "Spain",
     "Industry": "Life Science / CHANGE 444",
     "Website": "123",
@@ -43,7 +43,7 @@
     "Active Request ID": "cf9c54b8-fff8-487a-9d70-66cf9d14e203",
     "On Chain Address": "f1khdd2v7il7lxn4zjzzrqwceh466mq5k333ktu7q",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
